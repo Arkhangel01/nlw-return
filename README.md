@@ -5,6 +5,13 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Responsive Single Page**
+| :label: Tecnologias | HTML, CSS, JavaScript and ScrollReveal
+| :rocket: URL         | -
+| :fire: Desafio     | -
+
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00856F&labelColor=000000" alt="PRs welcome!" />
 
@@ -14,17 +21,8 @@
 <br>
 
 <p align="center">
-  <img alt="DoctorCare" src="assets/preview.jpg" width="100%">
+  <img alt="DoctorCare" src="assets/preview.jpg?raw=true#vitrinedev" width="100%">
 </p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML;
-- CSS;
-- JavaScript;
-- [ScrollReveal](https://scrollrevealjs.org/).
 
 ## 💻 Projeto
 

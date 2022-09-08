@@ -5,7 +5,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-| :placard: Vitrine.Dev |     |
+| :placard: Arkhangel01 |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Responsive Single Page**
 | :label: Tecnologias | HTML, CSS, JavaScript and ScrollReveal
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="DoctorCare" src="assets/preview.jpg?raw=true#vitrinedev" width="100%">
+  <img alt="DoctorCare" src="assets/preview.jpg" width="100%">
 </p>
 
 ## 💻 Projeto

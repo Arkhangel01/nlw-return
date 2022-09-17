@@ -5,13 +5,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-| :placard: Arkhangel01 |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Responsive Single Page**
-| :label: Tecnologias | HTML, CSS, JavaScript and ScrollReveal
-| :rocket: URL         | -
-| :fire: Desafio     | -
-
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00856F&labelColor=000000" alt="PRs welcome!" />
 
@@ -27,6 +20,12 @@
 ## 💻 Projeto
 
 DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, About, Services and Footer.
+
+## ☕ Tecnologias: 
+- HTML;
+- CSS;
+- JavaScript;
+- ScrollReveal.
 
 ## 🔖 Layout
 
